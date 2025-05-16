@@ -1,6 +1,6 @@
 # Bring Your Own LLM Guide
 
-This page provides recommendations for configuring your LLM and outlines the cost calculation methodology for the AskAI feature. For general information on AskAI, please refer to [the dedicated documentation](../../introduction/vectice-overview/askai.md).
+This page provides recommendations for configuring your LLM and outlines the cost calculation methodology for the AskAI feature. For general information on AskAI, please refer to [the dedicated documentation](../../introduction/readme/askai.md).
 
 ## Bring your own LLM
 
@@ -30,7 +30,7 @@ To ensure a **smooth experience** and prevent service interruptions in Vectice, 
 
 **Recommended Model Capabilities**
 
-* Your LLM should match or exceed the performance of **GPT-4o-mini** on reasoning, summarization, and code analysis tasks.&#x20;
+* Your LLM should match or exceed the performance of **GPT-4o-mini** on reasoning, summarization, and code analysis tasks.
 * Minimum equivalent model size: **7B–8B parameters** trained on high-quality data (e.g., LLaMA 3.2+ 8B+, Mixtral 8x22B)
 
 ### Azure OpenAI Configuration for GPT-4o (Recommended)
@@ -48,7 +48,7 @@ If using **GPT-4o or GPT-4o-mini** on **Azure**, configure content filtering to 
 
 Standard usage for a user actively documenting model development or validation is about 1.3 Millions tokens per month. For reference, this is the current pricing for LLMs (April 2025).
 
-<table><thead><tr><th width="183.8148193359375"></th><th width="80.59259033203125">GPT 4o</th><th width="121.333251953125">GPT 4o-mini</th><th width="122.0740966796875">Claude 3.7 Sonnet</th><th width="119.851806640625">LLaMA 70B</th><th>Mixtral 8x22B+</th><th></th></tr></thead><tbody><tr><td>Cost per Million token</td><td>$ 5 </td><td>$ 0.6</td><td>$ 3</td><td>$ 0.72</td><td>$ 2</td><td></td></tr><tr><td>Monthly Estimated Cost per User</td><td>&#x3C; $ 7 </td><td> &#x3C; $ 1</td><td> &#x3C; $ 4</td><td>&#x3C; $ 1</td><td>&#x3C; $ 3</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="183.8148193359375"></th><th width="80.59259033203125">GPT 4o</th><th width="121.333251953125">GPT 4o-mini</th><th width="122.0740966796875">Claude 3.7 Sonnet</th><th width="119.851806640625">LLaMA 70B</th><th>Mixtral 8x22B+</th><th></th></tr></thead><tbody><tr><td>Cost per Million token</td><td>$ 5</td><td>$ 0.6</td><td>$ 3</td><td>$ 0.72</td><td>$ 2</td><td></td></tr><tr><td>Monthly Estimated Cost per User</td><td>&#x3C; $ 7</td><td>&#x3C; $ 1</td><td>&#x3C; $ 4</td><td>&#x3C; $ 1</td><td>&#x3C; $ 3</td><td></td></tr></tbody></table>
 
 For the latest pricing, refer to [OpenAI’s API pricing page](https://openai.com/api/pricing/) and [Amazon's Bedrock princing page](https://aws.amazon.com/bedrock/pricing/).
 
@@ -56,6 +56,6 @@ For the latest pricing, refer to [OpenAI’s API pricing page](https://openai.co
 
 Enterprises typically integrate the following models based on their deployment strategy and governance needs:
 
-<table><thead><tr><th>Model</th><th width="175.48150634765625">Provider</th><th width="163.2962646484375">Parameters</th><th>Deployment Mode</th></tr></thead><tbody><tr><td>GPT-4o / GPT 4o-mini+</td><td>OpenAI (Azure)</td><td>N/A</td><td>Cloud (Azure-hosted) / Self-hosted</td></tr><tr><td>Claude 3.7+ Sonnet</td><td>Anthropic</td><td>N/A</td><td>Cloud (Amazon Bedrock) / Self-hosted</td></tr><tr><td>LLaMA 3.3+ 70B</td><td>Meta</td><td>70B</td><td>Cloud (Amazon Bedrock) / Self-hosted </td></tr><tr><td>Mixtral 8x22B+</td><td>Mistral AI</td><td>8x22B</td><td>Cloud (Amazon Bedrock) / Self-hosted</td></tr></tbody></table>
+<table><thead><tr><th>Model</th><th width="175.48150634765625">Provider</th><th width="163.2962646484375">Parameters</th><th>Deployment Mode</th></tr></thead><tbody><tr><td>GPT-4o / GPT 4o-mini+</td><td>OpenAI (Azure)</td><td>N/A</td><td>Cloud (Azure-hosted) / Self-hosted</td></tr><tr><td>Claude 3.7+ Sonnet</td><td>Anthropic</td><td>N/A</td><td>Cloud (Amazon Bedrock) / Self-hosted</td></tr><tr><td>LLaMA 3.3+ 70B</td><td>Meta</td><td>70B</td><td>Cloud (Amazon Bedrock) / Self-hosted</td></tr><tr><td>Mixtral 8x22B+</td><td>Mistral AI</td><td>8x22B</td><td>Cloud (Amazon Bedrock) / Self-hosted</td></tr></tbody></table>
 
 Need help evaluating which LLM works best for your use case? Reach out to our team at **support@vectice.com**.

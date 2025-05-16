@@ -3,10 +3,10 @@
 ## 🏠 Introduction
 
 * [Vectice overview](README.md)
-  * [Autolog](introduction/vectice-overview/autolog.md)
-  * [Next-Gen Autolog \[BETA\]](introduction/vectice-overview/next-gen-autolog-beta.md)
-  * [AskAI](introduction/vectice-overview/askai.md)
-  * [Vectice for financial services](introduction/vectice-overview/vectice-for-financial-services.md)
+  * [Autolog](introduction/readme/autolog.md)
+  * [Next-Gen Autolog \[BETA\]](introduction/readme/next-gen-autolog-beta.md)
+  * [AskAI](introduction/readme/askai.md)
+  * [Vectice for financial services](introduction/readme/vectice-for-financial-services.md)
 
 ## 🏁 Quickstart
 

@@ -2,7 +2,7 @@
 
 ### Overview
 
-Vectice provides a library of standard model documentation templates to help streamline compliance and leverage the metadata within Vectice. Powered with [Macros](../create-model-documentation-and-reports/streamline-documentation-with-macros.md) and [Ask AI](../introduction/vectice-overview/askai.md), these templates are maintained continuously by Vectice to ensure quick and efficient documentation to meet external regulations or internal standard requirements with minimal effort.
+Vectice provides a library of standard model documentation templates to help streamline compliance and leverage the metadata within Vectice. Powered with [Macros](../create-model-documentation-and-reports/streamline-documentation-with-macros.md) and [Ask AI](../introduction/readme/askai.md), these templates are maintained continuously by Vectice to ensure quick and efficient documentation to meet external regulations or internal standard requirements with minimal effort.
 
 ### How to use report templates
 
@@ -21,7 +21,7 @@ We recommend to start from a provided template for standard model documentation.
 * Browse the available templates in the Vectice library from your Avatar profile
 * Select a template that fits your documentation needs and duplicate the template
 * Customize the template as needed by applying styles, adding sections, Macros or Ask AI prompts
-* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use&#x20;
+* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use
 
 {% hint style="info" %}
 You can also duplicate and re-use your own templates to customize them for each team model use case
@@ -40,7 +40,7 @@ If you already have a documentation template, you can upload it to Vectice. We s
 * Suggested Macros and Ask AI prompts will be provided based on the document’s metadata
 * The template will be made available in the library for your review
 * Make any necessary adjustments to fit your needs
-* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use&#x20;
+* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use
 
 #### 3. Create a template from scratch
 
@@ -53,7 +53,7 @@ Start with a blank document and use the Vectice editor to structure and automate
 * Open the report template creation tool in Vectice.
 * Define the document structure and content, or copy-paste from your own Word template
 * Utilize Macros and Ask AI prompts to automate data-driven sections.
-* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use&#x20;
+* Change the access level to Organization-shared if you want to make it available to all your colleagues, or keep it as Personal if you want to keep it for your personal use
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FbO7GsO4mI4pjZ7XjnzBT%2Fuploads%2FDlW9z4VcMgL5Jm1UkFNk%2FCreate%20a%20Vectice%20template%20from%20your%20own%20Word%20template%20(2).mp4?alt=media&token=997a8324-f53e-4e8d-ba71-8e7c74538af0" %}
 Copy-paste from your own Word template

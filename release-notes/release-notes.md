@@ -25,7 +25,7 @@ This release introduces a suite of powerful new features designed to enhance doc
 #### 1. **Next-Gen Autolog**
 
 The Next-Gen Autolog feature significantly enhances the documentation process by combining metadata and code analysis. Powered by **Ask AI**, it automatically organizes logged asset metadata into meaningful sections, analyzes dataset transformations, and generates contextual, insightful commentary. This provides users with richer, more accurate, and context-aware documentation.\
-👉 [Next-Gen Autolog](../introduction/vectice-overview/next-gen-autolog-beta.md)
+👉 [Next-Gen Autolog](../introduction/readme/next-gen-autolog-beta.md)
 
 #### 2. **Lineage diagram visualization**
 
@@ -41,8 +41,6 @@ A completely redesigned onboarding journey is now available, featuring:
 * **Interactive Tutorial**: Guides users through the process of creating fully compliant, professional-grade auto-documentation.
 
 This new experience helps users ramp up faster and unlock the full potential of the platform.
-
-
 
 **4. Custom styling for reports**
 
@@ -80,8 +78,6 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
        1. Track the completion status of reports directly in the outline view.
        2. Easily select assets to populate reports and make updates—all in one place.
 
-
-
        <figure><img src="../.gitbook/assets/macro_console.png" alt=""><figcaption></figcaption></figure>
    * **Improved macros in Vectice Library:**
      1. **Global macros and report templates** for consistent style and formatting across customer organizations provided and maintained by Vectice.
@@ -115,8 +111,6 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
     * **Onboarding tour for new users**\
       A new guided onboarding tour has been introduced to help new users navigate the app and get started quickly, ensuring a smooth experience from the very first use.
 
-
-
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXceg14zne9pub7I0MEur-Rc7dUXW07AY-FCETCMUaFX4WEGQtTH1m9UWmZ_47TkXW06kHEWg11UAXz5pmk4j0FREAilnMcBSQnbc3UGGjvOpJQvWQH36-jdP8LT4AYyztcfhyPKqPYfqvAFC9hNMbS6wKaY?key=FMetatGMnvwB5l1IRYxwDA" alt=""><figcaption></figcaption></figure>
 3. **Vectice Editor Enhancements**
    * **Improved formatting capabilities for documentation and reports**\
@@ -129,8 +123,6 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
     * **Improved macro editing interface for Admins**\
       A new interface for editing macros is available, providing a preview of macro content and in-app help to easily retrieve code, making it easier for Admins to manage and customize macros.
 
-
-
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeALOpyUwvLFMDmGtTTbg_EO0QpG6XVibJ1VUVxr1TynMDVM68b6hW5fMT37LAohl0_X82k_UMSU7mPMD3sFGdP2b3hcFOnO86Igr_kyqM37TOGNyMaEBXET1GFANui8Z9bW3o0WrpB67jyQPZd7pX5nLbi?key=FMetatGMnvwB5l1IRYxwDA" alt=""><figcaption></figcaption></figure>
 
 ***
@@ -141,19 +133,17 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
 
 **Summary:** This release focuses on enhancing our editor to produce high-quality reports and improve LLM features. Key highlights include enhanced formatting capabilities, AskAI improvements, export to Word, updates to lineage, and API enhancements.
 
-**New Features:**&#x20;
+**New Features:**
 
-1. **Enhanced formatting capabilities for high-quality reports**&#x20;
-   * Customize headers and footers for a professional look&#x20;
-   * Easily navigate through your document with an automatic outline&#x20;
+1. **Enhanced formatting capabilities for high-quality reports**
+   * Customize headers and footers for a professional look
+   * Easily navigate through your document with an automatic outline
    * Add bookmarks for quick access to important sections
 2.  **AskAI improvements to enhance documentation with smarter AI capabilities**
 
     * Generate detailed documentation effortlessly for a model or dataset.
-    * Seamlessly search for assets and generate documentation with the new / menu&#x20;
+    * Seamlessly search for assets and generate documentation with the new / menu
     * Enjoy a more intuitive interface with the _Ask Me Anything_ feature
-
-
 
     <figure><img src="../.gitbook/assets/askmeanything.png" alt=""><figcaption></figcaption></figure>
 3. **Easily export your work to Word format**
@@ -163,8 +153,6 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
     * Provide evidence of where your data comes from with input dataset documentation
     * Document the source of the code used
     * Capture and document the code file for reference
-
-
 
     <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 5. **Boost your workflow with new API capabilities**
@@ -182,11 +170,11 @@ Documentation exports (PDF/Word) now include permalinks tied to specific histori
 
 **New Features:**
 
-1. &#x20;**Auto-document your models and produce high-quality reports**
+1. **Auto-document your models and produce high-quality reports**
    * Custom documentation templates / Macros
    * Manage templates and macros for specific user profiles
 
-Watch our video for more info: [LINK](https://app.gitbook.com/o/O470i8PLr5LkHCseyQlk/s/bO7GsO4mI4pjZ7XjnzBT/~/changes/274/introduction/vectice-for-financial-services)&#x20;
+Watch our video for more info: [LINK](https://app.gitbook.com/o/O470i8PLr5LkHCseyQlk/s/bO7GsO4mI4pjZ7XjnzBT/~/changes/274/introduction/vectice-for-financial-services)
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
