@@ -1,39 +1,84 @@
 ---
-description: Auto-document with Vectice
+description: >-
+  Enabling all enterprise’s AI/ML initiatives to result in consistent and
+  positive impact.
 ---
 
-# Vectice overview
+# 🎉 Hello Vectice!
 
-Vectice is the go-to Auto-Documentation software for machine learning projects and their governance. Use [Autolog](introduction/vectice-overview/autolog.md) to log your data science assets using one line of code. For financial institutions, you can use [custom documentation templates](introduction/vectice-overview/vectice-for-financial-services.md) to streamline model reporting and validation.&#x20;
+Vectice, the platform-agnostic data science-management software, empowers enterprises and their teams to establish best-in-class AI practices to accelerate the impact of AI on their business.
 
-Watch our Product Overview video to learn more!
+Vectice offers the first solution that embraces the iterative nature of data science workflows, centralizes AI assets into a searchable catalog, and is compatible with the tools data scientists already use.
 
-{% embed url="https://youtu.be/STf39dKewVg?ref=0" %}
+Vectice is for:
 
-We enable organizations to:
+{% tabs %}
+{% tab title="Data Science Leaders" %}
+### Vectice is your control tower
 
-<table data-header-hidden><thead><tr><th width="86"></th><th width="172"></th><th></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><strong>Auto-Generate Documentation from your Existing AI Tools</strong></td><td>Compatible with AI tools and platforms supporting Python and R, Vectice generates ongoing and comprehensive documentation of your data science projects in an intuitive user interface.</td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><strong>Cross-functional collaboration and transparency</strong></td><td>At a glance, data scientists, product managers, compliance officers, and other stakeholders can review project progress, share their business insights, and access activities of all existing, ongoing, and new projects. </td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td><strong>Enforce</strong> <strong>best practices and governance</strong></td><td>Accelerate the value delivery of your organization by standardizing AI projects, establishing best practices, and preparing for the upcoming AI regulations.</td></tr></tbody></table>
+From chaos to calm, managers deserve a dedicated data science solution.&#x20;
 
-## **Platform, framework, and tool agnostic:**
 
-<figure><img src="https://lh5.googleusercontent.com/fQjinLqnMwpOiw1hE-zwHDha9QKNCWTP73BUSRup9NY1YaqcWJkb4KHCeKjaxOf3Cfwmf-bPdAEcnUh0pr-G2CQz7KmktsswB1bQ3RL5CoxQGCDQYsrCn5ASLgHeH3zmX1CPLaShY3gDN95t7ZPFJmPkCw=s2048" alt="" width="375"><figcaption><p> Integrates with your favorite tools and platforms</p></figcaption></figure>
 
-## Why Vectice?
+:books: **Secured team knowledge**
 
-Vectice is a powerful tool that helps data science and machine learning teams streamline workflows, boost collaboration, ensure reproducibility, and make better decisions based on tracked experiments and versioned metadata.&#x20;
+* [ ] Seamlessly capture and document your data science team knowledge on datasets, code, learnings, experiments, documentation, and projects.
+* [ ] Onboard new team members quickly and avoid tribal knowledge loss during project transfer or team member departure.&#x20;
+* [ ] Discover subject matter experts within your company, and reuse existing code, datasets and other assets for new projects.
 
-Data science and machine learning teams utilize Vectice to:
 
-*   :pencil: **Auto-document important artifacts**
 
-    Automate documentation of important artifacts in the data science and machine learning workflow. Vectice automatically logs and organizes metadata related to datasets, models, and associated code.&#x20;
-*   :handshake: **Streamline collaboration and reproducibility**&#x20;
+:bar\_chart: **Automated reporting**
 
-    Enhance teamwork with Vectice, a centralized platform enabling team members to share and access pivotal milestones and artifacts. This fosters transparency, minimizes the potential for errors, and facilitates effective building upon one another's work.
-*   :mag: **Discoverability and search ability**
+* [ ] Leverage Vectice to follow your team's progress throughout the full data science life cycle.
+* [ ] Gain full visibility into your data science initiatives and their status without requesting meetings or asking around.
+* [ ] Review team activities and identify project bottlenecks.
+* [ ] \
+  :gear: **Simplified reviews and processes**
+* [ ] Leverage existing templates or customize them to enable data science workflows such as CRISP-DM.
+* [ ] No more meetings, emails or Slack messages to understand project status and stay on top of the team activities.
+* [ ] Facilitate sharing of information and promote collaboration.
+{% endtab %}
 
-    Effortlessly search and locate previous work for reusability or to find subject matter experts.
+{% tab title="Data Scientists" %}
+### Vectice is your memory
 
-## What's next?
+Vectice auto-captures your knowledge ~~-~~ datasets, models, code, learnings, experiments, and projects.
 
-Discover how you can log all data science work with one line of code with Vectice's [Autolog](introduction/vectice-overview/autolog.md)!
+
+
+:checkered\_flag: **Capture Key Milestones**
+
+* [ ] Vectice lets you automatically capture the milestones and the related assets and artifacts while keeping track of their lineage.
+* [ ] You can now confidently report on any key milestones of your project.
+
+
+
+:mag\_right: **Every asset: Discoverable**
+
+* [ ] Leverage Vectice search capabilities to retrieve any existing asset and learnings generated from all the frameworks and platforms you used.
+* [ ] Reuse and find inspiration to speed up your workflow.
+
+\
+:speech\_balloon: **Knowledge transfer: Simplified**
+
+* [ ] All your important datasets, insights, code, experiments, and projects documentation get securely referenced and organized in Vectice.
+* [ ] Effortlessly transfer your projects' knowledge and learnings to your teammates, data engineers, MLOps, analytics counterparts, and more!
+{% endtab %}
+{% endtabs %}
+
+With Vectice you can:
+
+* :link: **Connect to your AI stack:** Vectice is the place to centralize all your metadata for your AI initiatives through various platforms and tools.&#x20;
+* :mag\_right: **Search for Anything:** Vectice enables you to boost your productivity as all your projects and assets are now searchable and organized automatically no matter which tools or platforms are used within your organization. Search for any Project, Dataset, Run, and model across all your tools.&#x20;
+* :gear: **Standardize Processes:** Vectice enables you to standardize your processes by using customized templates.&#x20;
+* :checkered\_flag: **Project Reviews:** Vectice ensures project quality by enabling you or other teammates to give feedback throughout the entire project lifecycle. Leverage Vectice’s deep links to the correct asset version (dataset, model, code, graph), regardless of its source.&#x20;
+* :fireworks: **Automatic Reporting & Make Decisions:** Leverage Vectice’s dashboards to follow your team’s progress in an iterative workflow. Vectice provides a centralized view of all your team’s activities organized by projects and phases.&#x20;
+* :speech\_balloon: **Collaborate with business stakeholders:** Vectice notifies you about the team activity and when someone mentions you in the documentation.&#x20;
+* :dna: **Auto-track asset lineage:** Vectice uses metadata to auto-index & auto-trace every version of the models, datasets, and code used through each project’s lifecycle. Vectice’s API automatically captures your AI assets, their metadata, and auto-documents your work.
+* :people\_with\_bunny\_ears\_partying: **Compare models and datasets:** Vectice makes it a breeze to capture assets lineage for code, datasets and models, and compare the versions of your assets&#x20;
+* :shield: **Secure**: Vectice enables you to manage the different members and their roles in the different workspaces using role-based access control and authentication through SSO.&#x20;
+
+{% hint style="info" %}
+To learn more about how to get started using Vectice go to the Getting Started section.
+{% endhint %}
